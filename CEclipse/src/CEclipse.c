@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 		char *nom;
 		unsigned short age;
 		int no;
-	} ble;
+	} ble, dinde;
 
 	struct myStruct
 	{
